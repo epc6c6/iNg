@@ -5,6 +5,8 @@
 #
 # DOMAIN-KEYWORD,665.xyz # Me
 #
+DOMAIN-SUFFIX,zox.show   # AcEmby 主路线
+
 DOMAIN,pe.cn2gias.uk    # 守候高级服 US 主线路
 DOMAIN,prehk.cn2gias.uk # 守候高级服 HK 备用线路
 DOMAIN,prekr.cn2gias.uk # 守候高级服 KR 备用线路
