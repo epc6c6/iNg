@@ -16,7 +16,6 @@ payload:
   - DOMAIN-SUFFIX,api.freestyle.cc.cd
   - DOMAIN-SUFFIX,api.hoshino.edu.rs
   - DOMAIN-SUFFIX,api.hotaruapi.top
-  - DOMAIN-SUFFIX,api.mmkg.cloud
   - DOMAIN-SUFFIX,api.ouu.ch
   - DOMAIN-SUFFIX,api.slapq.top
   - DOMAIN-SUFFIX,ccll.xyz
@@ -46,3 +45,6 @@ payload:
   - DOMAIN-SUFFIX,x666.me
   - DOMAIN-SUFFIX,yyds.215.im
   - DOMAIN-SUFFIX,zuodachen.zdc.mom
+  - DOMAIN-SUFFIX,cifang.xyz
+  - DOMAIN-SUFFIX,infiniteai.cc
+  - DOMAIN-SUFFIX,qaq.al
