@@ -3,6 +3,7 @@
 # format: yaml
 payload:
 
+  - DOMAIN-SUFFIX,hybgzs.com
   - DOMAIN-SUFFIX,ai-free-api.kingo.dpdns.org
   - DOMAIN-SUFFIX,ai.facai.cloudns.org
   - DOMAIN-SUFFIX,ai.huan666.de
@@ -35,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,newapi.sorai.me
   - DOMAIN-SUFFIX,newapi.zhenhaoji.qzz.io
   - DOMAIN-SUFFIX,npcodex.kiroxubei.tech
+  - DOMAIN-SUFFIX,egoist03u.tech
   - DOMAIN-SUFFIX,openai.api-test.us.ci
   - DOMAIN-SUFFIX,proxy.pieixan.icu
   - DOMAIN-SUFFIX,router.tumuer.me
