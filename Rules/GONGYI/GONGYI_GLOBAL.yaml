@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,api.hotaruapi.top
   - DOMAIN-SUFFIX,api.ouu.ch
   - DOMAIN-SUFFIX,api.slapq.top
+  - DOMAIN-SUFFIX,api.mmkg.cloud
   - DOMAIN-SUFFIX,ccll.xyz
   - DOMAIN-SUFFIX,claudex.us.ci
   - DOMAIN-SUFFIX,clove.cc.cd
